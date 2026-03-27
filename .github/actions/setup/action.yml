@@ -2,7 +2,7 @@ name: Magisk Setup
 description: Set up the build environment for Magisk
 inputs:
   is-asset-build:
-    required: false
+    required: false 
     default: false
 runs:
   using: "composite"
